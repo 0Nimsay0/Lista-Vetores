@@ -1,0 +1,14 @@
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.AssemblyInfoInputs.cache
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.AssemblyInfo.cs
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\bin\Debug\net6.0\ListaVetor.exe
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\bin\Debug\net6.0\ListaVetor.deps.json
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\bin\Debug\net6.0\ListaVetor.runtimeconfig.json
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\bin\Debug\net6.0\ListaVetor.dll
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\bin\Debug\net6.0\ListaVetor.pdb
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.dll
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\refint\ListaVetor.dll
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.pdb
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ListaVetor.genruntimeconfig.cache
+C:\Users\Diaas\source\repos\ListaVetor\ListaVetor\obj\Debug\net6.0\ref\ListaVetor.dll
